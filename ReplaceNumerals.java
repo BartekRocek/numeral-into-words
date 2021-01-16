@@ -1,4 +1,4 @@
-/* This code replaces a numeral with the corresponding word from 0 to 11 in a text entered by the user*/
+/* This code replaces a numeral with the corresponding word from 0 to 12 in a text entered by the user*/
 
 import java.util.*;
 import java.lang.*;
