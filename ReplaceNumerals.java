@@ -30,7 +30,7 @@ public class ReplaceNumerals {
                     textIntoArray[0] = textIntoArray[0].replace(firstLetterInWord[0], firstLetterToCapitalize[0]);
                 }
 
-                //check if each item of the array contains a numeral
+                //check if each item but the first one of the array contains a numeral
                 if  (textIntoArray[i].equals(numeral[j]) && i > 0) {
 
                     //if it does, the relevant numeral is replaced with the corresponding word
